@@ -1,4 +1,4 @@
-package com.progmichaelkibenko.cameratextureview.view
+package com.progmichaelkibenko.view
 
 import android.Manifest
 import android.content.Context
